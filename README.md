@@ -1,1 +1,3 @@
-# Java_lab1
+# Java_lab1 
+# Variant 6
+# Danyliuk Roman
